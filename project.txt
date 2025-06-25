@@ -1,0 +1,16 @@
+week-2-express-js-assignment-JayMariga/
+├── routes/
+│   └── products.js
+├── middleware/
+│   ├── auth.js
+│   ├── errorHandler.js
+│   ├── logger.js
+│   └── validator.js
+├── models/
+│   └── Product.js
+├── errors/
+│   └── customErrors.js
+├── .env
+├── .env.example
+├── server.js
+└── README.md
